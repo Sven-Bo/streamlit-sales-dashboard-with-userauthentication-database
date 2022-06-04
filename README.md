@@ -8,6 +8,13 @@ In particular, we will be using the free database from deta (https://www.deta.sh
 ..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variable to your .env file
+
+`DETA_KEY`
+
+
 ## Watch Part 1 here
 [![YouTube Video](https://img.youtube.com/vi/JoFGrSRj4X4/0.jpg)](https://youtu.be/JoFGrSRj4X4)
 

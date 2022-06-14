@@ -5,15 +5,11 @@ In this part, we are reading/writing the user credentials from/to a database ins
 In particular, we will be using the free database from deta (https://www.deta.sh/)
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/eCbH2nPL9sU/0.jpg)](https://youtu.be/eCbH2nPL9sU)
 
 ## Environment Variables
-
 To run this project, you will need to add the following environment variable to your .env file
-
 `DETA_KEY`
-
 
 ## Watch Part 1 here
 [![YouTube Video](https://img.youtube.com/vi/JoFGrSRj4X4/0.jpg)](https://youtu.be/JoFGrSRj4X4)

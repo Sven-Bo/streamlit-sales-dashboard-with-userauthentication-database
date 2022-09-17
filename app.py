@@ -9,7 +9,10 @@ import database as db
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
 
-st.info("CREDENTIALS | username:pparker ; password:abc123")
+# --- DEMO PURPOSE ONLY --- #
+placeholder = st.empty()
+placeholder.info("CREDENTIALS | username:pparker ; password:abc123")
+# ------------------------- #
 
 # --- USER AUTHENTICATION ---
 users = db.fetch_all_users()
@@ -30,6 +33,7 @@ if authentication_status == None:
     st.warning("Please enter your username and password")
 
 if authentication_status:
+    placeholder.empty()
     # ---- READ EXCEL ----
     @st.cache
     def get_data_from_excel():

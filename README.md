@@ -4,6 +4,9 @@ This is the second part of adding a user authentication service (login form) in 
 In this part, we are reading/writing the user credentials from/to a database instead of a pickle file.
 In particular, we will be using the free database from deta (https://www.deta.sh/)
 
+## Demo Website
+⭐ https://www.dashboarduserauth.pythonandvba.com/
+
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/eCbH2nPL9sU/0.jpg)](https://youtu.be/eCbH2nPL9sU)
 
@@ -13,9 +16,6 @@ To run this project, you will need to add the following environment variable to 
 
 ## Watch Part 1 here
 [![YouTube Video](https://img.youtube.com/vi/JoFGrSRj4X4/0.jpg)](https://youtu.be/JoFGrSRj4X4)
-
-## Demo Website
-⭐ https://userauth-dashboard.herokuapp.com/
 
 ## Screenshot
 ![Login Screenshot](/demo.jpg?raw=true "Login Form")
